@@ -1,0 +1,140 @@
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\obj\Debug\MainWindow.baml
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\obj\Debug\MainWindow.g.cs
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\obj\Debug\App.g.cs
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\obj\Debug\Program1_MarkupCompile.cache
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\obj\Debug\Program1.g.resources
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\user-1\Documents\Visual Studio 2012\Projects\KR\Prog1\Program1\Program1\obj\Debug\Program1.pdb
+C:\Users\user-1\Desktop\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\user-1\Desktop\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\user-1\Desktop\Program1\Program1\obj\Debug\Program1.pdb
+C:\Users\user-1\Desktop\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\user-1\Desktop\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\user-1\Desktop\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Users\user-1\Desktop\Program1\Program1\obj\Debug\MainWindow.baml
+C:\Users\user-1\Desktop\Program1\Program1\obj\Debug\MainWindow.g.cs
+C:\Users\user-1\Desktop\Program1\Program1\obj\Debug\App.g.cs
+C:\Users\user-1\Desktop\Program1\Program1\obj\Debug\Program1_MarkupCompile.cache
+C:\Users\user-1\Desktop\Program1\Program1\obj\Debug\Program1.g.resources
+C:\Users\user-1\Desktop\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\user-1\Desktop\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+J:\Curs220941\Application1\WPF\App11\Program1\bin\Debug\Program1.exe.config
+J:\Curs220941\Application1\WPF\App11\Program1\obj\Debug\Program1.exe
+J:\Curs220941\Application1\WPF\App11\Program1\obj\Debug\Program1.pdb
+J:\Curs220941\Application1\WPF\App11\Program1\bin\Debug\Program1.exe
+J:\Curs220941\Application1\WPF\App11\Program1\bin\Debug\Program1.pdb
+J:\Curs220941\Application1\WPF\App11\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+J:\Curs220941\Application1\WPF\App11\Program1\obj\Debug\MainWindow.baml
+J:\Curs220941\Application1\WPF\App11\Program1\obj\Debug\MainWindow.g.cs
+J:\Curs220941\Application1\WPF\App11\Program1\obj\Debug\App.g.cs
+J:\Curs220941\Application1\WPF\App11\Program1\obj\Debug\Program1_MarkupCompile.cache
+J:\Curs220941\Application1\WPF\App11\Program1\obj\Debug\Program1.g.resources
+J:\Curs220941\Application1\WPF\App11\Program1\obj\Debug\Program1.Properties.Resources.resources
+J:\Curs220941\Application1\WPF\App11\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+C:\Oop_Samples\WPF\App11\Program1\bin\Debug\Program1.exe.config
+C:\Oop_Samples\WPF\App11\Program1\obj\Debug\Program1.exe
+C:\Oop_Samples\WPF\App11\Program1\obj\Debug\Program1.pdb
+C:\Oop_Samples\WPF\App11\Program1\bin\Debug\Program1.exe
+C:\Oop_Samples\WPF\App11\Program1\bin\Debug\Program1.pdb
+C:\Oop_Samples\WPF\App11\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Oop_Samples\WPF\App11\Program1\obj\Debug\MainWindow.baml
+C:\Oop_Samples\WPF\App11\Program1\obj\Debug\MainWindow.g.cs
+C:\Oop_Samples\WPF\App11\Program1\obj\Debug\App.g.cs
+C:\Oop_Samples\WPF\App11\Program1\obj\Debug\Program1_MarkupCompile.cache
+C:\Oop_Samples\WPF\App11\Program1\obj\Debug\Program1.g.resources
+C:\Oop_Samples\WPF\App11\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Oop_Samples\WPF\App11\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+G:\CursOOP\Oop_Samples_681\Wpf_VS12\App11\Program1\bin\Debug\Program1.exe.config
+G:\CursOOP\Oop_Samples_681\Wpf_VS12\App11\Program1\obj\Debug\Program1.exe
+G:\CursOOP\Oop_Samples_681\Wpf_VS12\App11\Program1\obj\Debug\Program1.pdb
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\bin\Debug\Program1.exe.config
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\bin\Debug\Program1.exe
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\bin\Debug\Program1.pdb
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\obj\Debug\Program1.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\obj\Debug\MainWindow.baml
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\obj\Debug\App.g.cs
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\obj\Debug\Program1_MarkupCompile.cache
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\obj\Debug\Program1.g.resources
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\obj\Debug\Program1.exe
+C:\Users\Professional\Desktop\Wpf_VS12\App11\Program1\obj\Debug\Program1.pdb
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\bin\Debug\Program1.exe.config
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\bin\Debug\Program1.exe
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\bin\Debug\Program1.pdb
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\obj\Debug\MainWindow.baml
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\obj\Debug\App.g.cs
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1_MarkupCompile.cache
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.g.resources
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.exe
+C:\Users\Professional\Desktop\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.pdb
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Debug\Program1.exe.config
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Debug\Program1.exe
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Debug\Program1.pdb
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\MainWindow.baml
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\App.g.cs
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1_MarkupCompile.cache
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.g.resources
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.exe
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.pdb
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Debug\Program1.exe.config
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Debug\Program1.exe
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Debug\Program1.pdb
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\MainWindow.baml
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\App.g.cs
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1_MarkupCompile.cache
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.g.resources
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.exe
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Debug\Program1.pdb
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\bin\Debug\Program1.exe.config
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\bin\Debug\Program1.exe
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\bin\Debug\Program1.pdb
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\obj\Debug\MainWindow.baml
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\obj\Debug\App.g.cs
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\obj\Debug\Program1_MarkupCompile.cache
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\obj\Debug\Program1.g.resources
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\obj\Debug\Program1.exe
+C:\Users\Professional\Downloads\Wpf_OOP_Борискин\App11\Program1\obj\Debug\Program1.pdb
+C:\Users\Владик\Downloads\App11\App11\Program1\bin\Debug\Program1.exe.config
+C:\Users\Владик\Downloads\App11\App11\Program1\bin\Debug\Program1.exe
+C:\Users\Владик\Downloads\App11\App11\Program1\bin\Debug\Program1.pdb
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\Program1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\MainWindow.baml
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\MainWindow.g.cs
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\App.g.cs
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\Program1_MarkupCompile.cache
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\Program1.g.resources
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\Program1.exe
+C:\Users\Владик\Downloads\App11\App11\Program1\obj\Debug\Program1.pdb

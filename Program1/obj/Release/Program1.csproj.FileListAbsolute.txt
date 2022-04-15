@@ -1,0 +1,40 @@
+C:\Users\user-1\Desktop\Program1\Program1\bin\Release\Program1.exe.config
+C:\Users\user-1\Desktop\Program1\Program1\bin\Release\Program1.exe
+C:\Users\user-1\Desktop\Program1\Program1\bin\Release\Program1.pdb
+C:\Users\user-1\Desktop\Program1\Program1\obj\Release\MainWindow.baml
+C:\Users\user-1\Desktop\Program1\Program1\obj\Release\MainWindow.g.cs
+C:\Users\user-1\Desktop\Program1\Program1\obj\Release\App.g.cs
+C:\Users\user-1\Desktop\Program1\Program1\obj\Release\Program1_MarkupCompile.cache
+C:\Users\user-1\Desktop\Program1\Program1\obj\Release\Program1.g.resources
+C:\Users\user-1\Desktop\Program1\Program1\obj\Release\Program1.Properties.Resources.resources
+C:\Users\user-1\Desktop\Program1\Program1\obj\Release\Program1.csproj.GenerateResource.Cache
+C:\Users\user-1\Desktop\Program1\Program1\obj\Release\Program1.exe
+C:\Users\user-1\Desktop\Program1\Program1\obj\Release\Program1.pdb
+C:\Users\user-1\Desktop\Program1\Program1\obj\Release\Program1.csprojResolveAssemblyReference.cache
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Release\Program1.exe.config
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Release\Program1.exe
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Release\Program1.pdb
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\MainWindow.baml
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\MainWindow.g.cs
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\App.g.cs
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1_MarkupCompile.cache
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.g.resources
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.Properties.Resources.resources
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.csproj.GenerateResource.cache
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.exe
+C:\Users\Professional\Downloads\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.pdb
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Release\Program1.exe.config
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Release\Program1.exe
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\bin\Release\Program1.pdb
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.csproj.AssemblyReference.cache
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\MainWindow.baml
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\MainWindow.g.cs
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\App.g.cs
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1_MarkupCompile.cache
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.g.resources
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.Properties.Resources.resources
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.csproj.GenerateResource.cache
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.exe
+C:\Users\Professional\Downloads\Wpf_VS12_Procedure_2 (2)\Wpf_VS12_OOP_2\Wpf_VS12_OOP\App11\Program1\obj\Release\Program1.pdb
